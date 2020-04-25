@@ -3,10 +3,13 @@ ___
 ## Benchmark Results
 
 ## Paper List
-### 2019
+### 2020
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
-|__frtm-vos__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)
+|__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)
+|__Transductive-VOS|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|[`paper`](https://arxiv.org/abs/2003.00908)  [`pytorch`](https://github.com/
+microsoft/transductive-vos.pytorch)
+
 
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   

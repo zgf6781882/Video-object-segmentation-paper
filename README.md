@@ -8,7 +8,8 @@ ___
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
 |__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)|
 |__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)                             [`pytorch`](https://github.com/microsoft/transductive-vos.pytorch)|
-|__**__|Motion-Attentive Transition for Zero-Shot Video Object Segmentation|Tianfei Zhou,ShunzhouWang,Yi Zhou,Yazhou Yao, Jianwu Li, Ling Shao|Inception Institute of Artifical Intelligence, UAE|__AAAI 2020__|[`paper`](https://arxiv.org/abs/2003.04253) [`pytorch`](https://github.com/tfzhou/MATNet)|
+|__CFBI__|Collaborative Video Object Segmentation by Foreground-Background Integration|Zongxin Yang,Yunchao Wei,Yi Yang|ReLER, University of Technology Sydney,Baidu Research|__arxiv__|[`paper`](https://arxiv.org/pdf/2003.08333v1.pdf)|
+[`pytorch`](https://github.com/z-x-yang/CFBI)
 
 
 
@@ -84,7 +85,9 @@ ___
 ___
 ## paper List
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|   
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|  
+|__MATNet__|Motion-Attentive Transition for Zero-Shot Video Object Segmentation|Tianfei Zhou,ShunzhouWang,Yi Zhou,Yazhou Yao, Jianwu Li, Ling Shao|Inception Institute of Artifical Intelligence, UAE|__AAAI 2020__|[`paper`](https://arxiv.org/abs/2003.04253) [`pytorch`](https://github.com/tfzhou/MATNet)|
+
 |__AGS__|Learning Unsupervised Video Object Segmentation through Visual Attention|Wenguan Wang, Hongmei Song, Shuyang Zhao, Jianbing Shen, Sanyuan Zhao, Steven Hoi, Haibin Ling|BIT, IIAI, SMU, Temple University|__CVPR 2019__|[`paper`](http://www.dabi.temple.edu/~hbling/publication/UVOS-cvpr19.pdf)   [`github`](https://github.com/wenguanwang/AGS)|
 |__unVOSMSGSTP__|Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UC Merced|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1809.01125v1)|
 |__unVOSMBN__|Unsupervised Video Object Segmentation with Motion-based Bilateral Networks|Vik Goel, Jameson Weng, Pascal Poupart|UCLA, Google|__ECCV 2018__|[`paper`](https://arxiv.org/abs/1805.07780v1)|

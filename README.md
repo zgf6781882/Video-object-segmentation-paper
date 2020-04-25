@@ -7,8 +7,7 @@ ___
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
 |__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)|
-|__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)[`pytorch`] 
-  (https://github.com/microsoft/transductive-vos.pytorch)
+|__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)                             [`pytorch`](https://github.com/microsoft/transductive-vos.pytorch)
 
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   

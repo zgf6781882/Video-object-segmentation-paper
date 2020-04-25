@@ -6,8 +6,11 @@ ___
 ### 2020
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
-|__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)|
-|__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR2020__|[`paper`](https://arxiv.org/abs/2003.00908)                             [`pytorch`](https://github.com/microsoft/transductive-vos.pytorch)
+|__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)|
+|__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)                             [`pytorch`](https://github.com/microsoft/transductive-vos.pytorch)|
+|__**__|Motion-Attentive Transition for Zero-Shot Video Object Segmentation|Tianfei Zhou,ShunzhouWang,Yi Zhou,Yazhou Yao, Jianwu Li, Ling Shao|Inception Institute of Artifical Intelligence, UAE|__AAAI 2020__|[`paper`](https://arxiv.org/abs/2003.04253) [`pytorch`](https://github.com/tfzhou/MATNet)|
+
+
 
 ### 2019
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|   

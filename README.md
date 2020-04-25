@@ -8,8 +8,7 @@ ___
 |-----|:--------:|:-----:|:-----:|:----:|:---:|
 |__FRTM-VOS__|Learning Fast and Robust Target Models for Video Object Segmentation|Andreas Robinson,Felix J¨aremo Lawin, Martin Danelljan,Fahad Shahbaz Khan,Michael Felsberg|CVL, Link¨oping University, Sweden,CVL, ETH Zurich, Switzerland,IIAI, UAE|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)     [`pytorch`](https://github.com/andr345/frtm-vos)|
 |__Transductive-VOS__|A Transductive Approach for Video Object Segmentation|Yizhuo Zhang,Zhirong Wu,Houwen Peng,Stephen Lin|Microsoft Research Asia,Carnegie Mellon University|__CVPR 2020__|[`paper`](https://arxiv.org/abs/2003.00908)                             [`pytorch`](https://github.com/microsoft/transductive-vos.pytorch)|
-|__CFBI__|Collaborative Video Object Segmentation by Foreground-Background Integration|Zongxin Yang,Yunchao Wei,Yi Yang|ReLER, University of Technology Sydney,Baidu Research|__arxiv__|[`paper`](https://arxiv.org/pdf/2003.08333v1.pdf)|
-[`pytorch`](https://github.com/z-x-yang/CFBI)
+|__CFBI__|Collaborative Video Object Segmentation by Foreground-Background Integration|Zongxin Yang,Yunchao Wei,Yi Yang|ReLER, University of Technology Sydney,Baidu Research|__arxiv__|[`paper`](https://arxiv.org/pdf/2003.08333v1.pdf)| [`pytorch`](https://github.com/z-x-yang/CFBI)
 
 
 
@@ -64,7 +63,7 @@ ___
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
 |__LucidDream__|Lucid Data Dreaming for Video Object Segmentation|Anna Khoreva, Rodrigo Benenson, Eddy Ilg, Thomas Brox, Bernt Schiele|MPI, Google|__IJCV 2019__|[`paper`](https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01164-6.pdf)   [`github`](https://github.com/ankhoreva/LucidDataDreaming)|
-|__FGFA__|Flow-guided feature aggregation for video object detection|Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei|USTC, MSRA|__ICCV 2017__|[`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flow-guided_Feature_Aggregation_ICCV_2017_paper.pdf)    [`github`](https://github.com/msracver/Flow-Guided-Feature-Aggregation)|    
+|__FGFA__|Flow-guided feature aggregation for video object detection|Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei|USTC, MSRA|__ICCV 2017__|[`paper`](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Flowguided_Feature_Aggregation_ICCV_2017_paper.pdf)    [`github`](https://github.com/msracver/Flow-Guided-Feature-Aggregation)|    
 |__MaskRNN__|MaskRNN: Instance Level Video ObjectSegmentation|Yuan-Ting Hu, Jia-Bin Huang, Alexander G. Schwing|UIUC|__NIPS 2017__|[`project page`](https://sites.google.com/view/yuantinghu/maskrnn)|
 |__SegFlow__|SegFlow: Joint Learning for Video Object Segmentation and Optical Flow|Jingchun Cheng, Yi-Hsuan Tsai, Shengjin Wang, Ming-Hsuan Yang|Tsinghua University, UC Merced|__ICCV 2017__|[`github`](https://github.com/JingchunCheng/SegFlow)|
 |__PLM__|Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks|Jae Shin Yoon, Francois Rameau, Junsik Kim, Seokju Lee, Seunghak Shin, In So Kweon|UMN, KAIST|__ICCV 2017__|[`project page`](https://jsyoon4325.wixsite.com/pix-matching)|

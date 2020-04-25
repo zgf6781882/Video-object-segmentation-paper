@@ -1,6 +1,6 @@
 # Semi-Supervised Video Object Segmentation
 ___
-## Benchmark Results
+
 
 ## Paper List
 ### 2020

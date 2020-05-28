@@ -104,11 +104,8 @@ ___
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|  
 |__FCN__|Fully Convolutional Networks for Semantic Segmentation|Jonathan Long,Evan Shelhamer,Trevor Darrell|UC Berkeley|__CVPR 2015__|
-[`paper`](http://arxiv.org/abs/1411.4038) [`pytorch`](https://github.com/bat67/pytorch-FCN-easiest-demo)|
-|__UNet__|U-Net: Convolutional Networks for Biomedical Image Segmentation|Olaf Ronneberger, Philipp Fischer, and Thomas Brox|University of Freiburg|__MICCAI 2015__|[`paper`](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)
-[`pytorch`]( https://github.com/milesial/Pytorch-UNet)|
-|__SegNet__|SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation|Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla|Senior Member, IEEE|__CVPR 2015__|[`paper`](https://ieeexplore.ieee.org/abstract/document/7803544) 
-[`pytorch`](http://mi.eng.cam.ac.uk/projects/segnet)|
+[`paper`](http://arxiv.org/abs/1411.4038)[`pytorch`](https://github.com/bat67/pytorch-FCN-easiest-demo)|
+|__UNet__|U-Net: Convolutional Networks for Biomedical Image Segmentation|Olaf Ronneberger, Philipp Fischer, and Thomas Brox|University of Freiburg|__MICCAI 2015__|[`paper`](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)[`pytorch`](https://github.com/milesial/Pytorch-UNet)|
+|__SegNet__|SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation|Vijay Badrinarayanan, Alex Kendall, Roberto Cipolla|Senior Member, IEEE|__CVPR 2015__|[`paper`](https://ieeexplore.ieee.org/abstract/document/7803544)[`pytorch`](http://mi.eng.cam.ac.uk/projects/segnet)|
 |__PSPNet__|Pyramid Scene Parsing Network|Hengshuang Zhao, Jianping Shi|The Chinese University of Hong Kong,SenseTime Group Limited|__CVPR 2017__|[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.html) [`pytorch`](https://github.com/hszhao/semseg)|
-|__DeeplabV3__|Rethinking Atrous Convolution for Semantic Image Segmentation|Liang-Chieh Chen George Papandreou Florian Schroff Hartwig Adam|Google Inc|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1706.05587) 
-[`pytorch`](https://github.com/pytorch/vision/tree/master/torchvision/models/segmentation)|
+|__DeeplabV3__|Rethinking Atrous Convolution for Semantic Image Segmentation|Liang-Chieh Chen George Papandreou Florian Schroff Hartwig Adam|Google Inc|__CVPR 2017__|[`paper`](https://arxiv.org/abs/1706.05587) [`pytorch`](https://github.com/pytorch/vision/tree/master/torchvision/models/segmentation)|

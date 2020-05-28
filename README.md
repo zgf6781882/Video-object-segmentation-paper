@@ -98,7 +98,7 @@ ___
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|   
 |__MaskTrackRCNN__|Video Instance Segmentation|Linjie Yang,Yuchen Fan,Ning Xu|ByteDance AI Lab,UIUC,Adobe Research|__ICCV 2019__|[`paper`](https://arxiv.org/pdf/1905.04804.pdf)    [`pytorch`](https://github.com/youtubevos/MaskTrackRCNN)|     
 
-# Image Segmentation
+# Image Semantic Segmentation
 ___
 ## paper List
 |Method   |Title   |Authors  |Affiliation  |Pub.  |Links|  
